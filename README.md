@@ -35,8 +35,6 @@ Para n = 4, a escada tem quatro degraus e é desenhada usando o caractere '#'. A
 
 ---
 
-<br>
-
 ### Exercício 2)
 
 Dado um número inteiro positivo n, escreva um algoritmo que determine a soma de todos os números inteiros positivos menores ou iguais a n.
@@ -64,8 +62,6 @@ exemplo: A soma de todos os números inteiros positivos menores ou iguais a 5 é
 A soma dos números inteiros positivos menores ou iguais a 5 é: 1 + 2 + 3 + 4 + 5 = 15.
 
 ---
-
-<br>
 
 ### Exercício 3)
 
@@ -98,8 +94,6 @@ exemplo:
 Para n = 3, a pirâmide tem três andares e é desenhada usando o caractere '#'. A primeira linha tem um espaço em branco e um caractere '#', a segunda linha tem um espaço em branco, dois caracteres '#' e um espaço em branco, e a terceira linha tem três caracteres '#'. Note que o número de caracteres '#' aumenta de 1 a cada linha e o número de espaços em branco diminui de 1 a cada linha.
 
 ---
-
-<br>
 
 ### Exercício 4)
 
@@ -134,8 +128,6 @@ exemplo: A soma de todos os elementos da matriz é 45.
 A matriz mat tem tamanho 3 x 3 e contém os números de 1 a 9. A soma de todos os elementos da matriz é 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = 45.
 
 ---
-
-<br>
 
 ### Exercício 5)
 
